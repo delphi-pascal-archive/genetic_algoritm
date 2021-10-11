@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="m0g7kmpmh_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassInformation.@unitclass">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassInformation.TInformation">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassInformation.TInformation.ShowElements(comctrls.TTreeView,comctrls.TTreeView)" />
+    </reference>
+  </view>
+</nodeSet>

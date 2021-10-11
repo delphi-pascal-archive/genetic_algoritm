@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="zagm12n0l_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:DataModule.@unitclass">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:DataModule.Data" />
+      <reference referencedUin="delphi:l_ast:src:ProgGenAlg:DataModule.Data" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:DataModule.TData">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:DataModule.TData.Database" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:DataModule.TData.Transaction" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:DataModule.TData.DataSet" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:DataModule.TData.CommitTr()" />
+    </reference>
+  </view>
+</nodeSet>

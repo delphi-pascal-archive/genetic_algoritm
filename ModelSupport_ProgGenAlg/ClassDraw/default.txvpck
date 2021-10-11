@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="kcgiy0j0l_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassDraw.@unitclass">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassDraw.MyGrid" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassDraw.TDraw">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassDraw.TDraw.Create(ExtCtrls.TImage)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassDraw.TDraw.Destroy()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassDraw.TDraw.Clear()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassDraw.TDraw.DrawPlat(System.Int32,System.Int32,System.Int32,System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassDraw.TDraw.ClearZone(System.Int32,System.Int32,System.Int32,System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassDraw.TDraw.DrawMoreZone(System.String)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassDraw.TDraw.DrawZone(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassDraw.TDraw.DrawLineUzel(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassDraw.TDraw.Draw(System.String,System.Int32,System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassDraw.TDraw.DrawAllPlat()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassDraw.TDraw.DrawAll()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassDraw.TDraw.DrawFirst()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassDraw.TDraw.DrawGrid()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassDraw.TDraw.SnapEl(System.Int32,System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassDraw.TDraw.SnapToGrid(ClassElement.TElement)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassDraw.TDraw.ChangePoz(System.Int32,System.Int32,System.Int32)" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassDraw.TDraw.Image[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassDraw.TDraw.Grid[]" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassDraw.TDraw.FImage" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassDraw.TDraw.FGrid" />
+    </reference>
+  </view>
+</nodeSet>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="edgy8819j_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassManager.@unitclass">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassManager.Manager" />
+      <reference referencedUin="delphi:l_ast:src:ProgGenAlg:ClassManager.Manager" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassManager.TManager">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassManager.TManager.Uzels[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassManager.TManager.Plats[]" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassManager.TManager.FindByPoint(System.Int32,System.Int32)" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassManager.TManager.CountVakMest[]" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassManager.TManager.FindElement(System.String)" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassManager.TManager.CountElements" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassManager.TManager.CountPlats" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassManager.TManager.FPlats" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassManager.TManager.Create()" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassManager.TManager.CountMest" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassManager.TManager.FindPlatByIndex(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassManager.TManager.DeleteAll()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassManager.TManager.AddElement(ClassElement.TElement)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassManager.TManager.AddPlata(types.TPoint,types.TPoint)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassManager.TManager.DeletePlata(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassManager.TManager.FindUzel(System.String)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassManager.TManager.DeleteElement(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassManager.TManager.AddUzel(System.String,System.Int32)" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassManager.TManager.CountUzels" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassManager.TManager.ElementsCount[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassManager.TManager.PlatsCount[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassManager.TManager.Elements[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassManager.TManager.UzelsCount[]" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassManager.TManager.DeleteAllPlata()" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassManager.TManager.FUzels" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassManager.TManager.FElements" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassManager.TManager.DeleteUzel(System.Int32)" />
+    </reference>
+  </view>
+</nodeSet>

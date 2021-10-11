@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="j1givvs3m_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:FormReadFile.@unitclass">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.fmReadFile" />
+      <reference referencedUin="delphi:l_ast:src:ProgGenAlg:FormReadFile.fmReadFile" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:FormReadFile.TfmReadFile">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormReadFile.TfmReadFile.actOpenFileExecute(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormReadFile.TfmReadFile.actGetElementExecute(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormReadFile.TfmReadFile.actGetNetsExecute(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormReadFile.TfmReadFile.actGetAllExecute(System.Object)" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.ActionList1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.actOpenFile" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.ImageList1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.Memo" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.actGetAll" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.ToolButton3" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.ToolButton1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.actGetNets" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.Tree" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.ToolButton2" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.Bar3" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.ToolButton4" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.actCreateElements" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormReadFile.TfmReadFile.actCreateElementsExecute(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormReadFile.TfmReadFile.FormCreate(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormReadFile.TfmReadFile.CreateObject()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormReadFile.TfmReadFile.FreeObject()" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.ControlBar1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.Bar2" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.btElement" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.Open" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.actGetElement" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.Read" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.Bar1" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormReadFile.TfmReadFile.FormDestroy(System.Object)" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormReadFile.TfmReadFile.Bar" />
+    </reference>
+  </view>
+</nodeSet>

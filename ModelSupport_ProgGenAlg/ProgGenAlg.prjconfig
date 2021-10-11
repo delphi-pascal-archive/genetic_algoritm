@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.ClassConnection" Type="System.String" Value="BasicClass" IsBrowsable="False" />
+  <Option Name="namespaceFolder.fmMain" Type="System.String" Value="Form" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ClassExecuteObject" Type="System.String" Value="BasicClass" IsBrowsable="False" />
+  <Option Name="namespaceFolder.fmAddConnect" Type="System.String" Value="Form" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ClassElement" Type="System.String" Value="Classes" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ClassDBObject" Type="System.String" Value="BasicClass" IsBrowsable="False" />
+  <Option Name="Gendoc.NavigationTree" Type="System.Boolean" Value="True" IsBrowsable="False" />
+  <Option Name="Gendoc.OutputFolder" Type="System.String" Value="D:\Учёба!!!\ММАПР\ProgGenAlg\out\doc" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FormAddElement" Type="System.String" Value="Form" IsBrowsable="False" />
+  <Option Name="Gendoc.Images" Type="System.Boolean" Value="True" IsBrowsable="False" />
+  <Option Name="Gendoc.LaunchBrowser" Type="System.Boolean" Value="True" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ClassTransactionObject" Type="System.String" Value="BasicClass" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FormReadFile" Type="System.String" Value="Form" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ClassReadFile" Type="System.String" Value="Classes" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ProgGenAlg" Type="System.String" Value="" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ClassDraw" Type="System.String" Value="Classes" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ClassPlata" Type="System.String" Value="Classes" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ClassGrid" Type="System.String" Value="Classes" IsBrowsable="False" />
+  <Option Name="namespaceFolder.DataModule" Type="System.String" Value="DataModule" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FormOptions" Type="System.String" Value="Form" IsBrowsable="False" />
+  <Option Name="namespaceFolder.FormManagerBD" Type="System.String" Value="Form" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ClassInformation" Type="System.String" Value="Classes" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ClassManager" Type="System.String" Value="Classes" IsBrowsable="False" />
+  <Option Name="namespaceFolder.Genes" Type="System.String" Value="Classes\Gen" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ClassOptions" Type="System.String" Value="Classes" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ClassUzel" Type="System.String" Value="Classes" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ClassMatrR" Type="System.String" Value="Classes\Gen" IsBrowsable="False" />
+  <Option Name="namespaceFolder.ClassGenAlg" Type="System.String" Value="Classes\Gen" IsBrowsable="False" />
+</TgConfig>

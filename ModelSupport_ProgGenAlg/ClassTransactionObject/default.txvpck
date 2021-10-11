@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="k4gxgeusg_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassTransactionObject.@unitclass">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassTransactionObject.TTransactionObject">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassTransactionObject.TTransactionObject.Transaction[]" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassTransactionObject.TTransactionObject.GetInTransaction()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassTransactionObject.TTransactionObject.SetTransaction(IBDataBase.TIBTransaction)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassTransactionObject.TTransactionObject.GetTransaction()" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassTransactionObject.TTransactionObject.FTransaction" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassTransactionObject.TTransactionObject.InTransaction[]" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassTransactionObject.TTransactionObject.StartTransaction()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassTransactionObject.TTransactionObject.RollbackRetaining()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassTransactionObject.TTransactionObject.Rollback()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassTransactionObject.TTransactionObject.CommitRetaining()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassTransactionObject.TTransactionObject.Commit()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassTransactionObject.TTransactionObject.Destroy()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassTransactionObject.TTransactionObject.Create()" />
+    </reference>
+  </view>
+</nodeSet>

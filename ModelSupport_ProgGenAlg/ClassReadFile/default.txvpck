@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="z1g12jrni_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassReadFile.@unitclass">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassReadFile.TReadFile">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassReadFile.TReadFile.Text" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassReadFile.TReadFile.OpenFile()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassReadFile.TReadFile.ShowFile(StdCtrls.TMemo)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassReadFile.TReadFile.GetNets(comctrls.TTreeView)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassReadFile.TReadFile.CloseFile()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassReadFile.TReadFile.FindNetPart()" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassReadFile.TReadFile.FileName[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassReadFile.TReadFile.Elements[]" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassReadFile.TReadFile.GetElement(comctrls.TTreeView)" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassReadFile.TReadFile.FElements" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassReadFile.TReadFile.SetNameFile(System.String)" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassReadFile.TReadFile.FFileName" />
+    </reference>
+  </view>
+</nodeSet>

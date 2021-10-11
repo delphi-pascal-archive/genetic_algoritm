@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="qkgdiiheo5fjwbh_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassGenAlg.@unitclass">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassGenAlg.TGen">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.TGen.Bit" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.TGen.IndexEl" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.TGen.IndexKl" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.TGen.Oshibka" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassGenAlg.THromosoma">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.THromosoma.ChangeEl(System.Int32,System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.THromosoma.FindByName(System.Int32)" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassGenAlg.THromosoma.Gens[]" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.THromosoma.FKolGens" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.THromosoma.Fbit" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.THromosoma.FindByBit(System.String)" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassGenAlg.THromosoma.KolGens[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassGenAlg.THromosoma.Bit[]" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.THromosoma.Create()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.THromosoma.AddGen()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.THromosoma.FindByIndexKl(System.Int32)" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.THromosoma.FGens" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.THromosoma.DeleteGen(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.THromosoma.SetBit()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.THromosoma.GetGen()" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassGenAlg.TGenAlg">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.TGenAlg.FKrossover" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.TGenAlg.FMinPop" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.TGenAlg.FKolHrom" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.TGenAlg.FInvertion" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.TGenAlg.FMutation" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.SetCelFunc()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.DeleteHrom(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.DeleteAllHrom()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.FuncMutation(System.String)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.DecToBin(System.UInt32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.SetKolBit(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.SetAllBit()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.FirstRazm()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.AddHrom()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.SetCelFuncKomp()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.ZakrEl(System.Int32)" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassGenAlg.TGenAlg.FHrom[]" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.CrossingKomp(System.Int32,System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.SetOshibka(System.Int32,System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.Crossing(System.Int32,System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.Rast(System.String,System.String)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.SnapEl(System.Int32,System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.SetAllHrom()" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.TGenAlg.FMaxPop" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.TGenAlg.Matr" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassGenAlg.TGenAlg.MinPop[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassGenAlg.TGenAlg.MaxPop[]" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.SetMatr()" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.TGenAlg.FCelFunc" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.TGenAlg.FPrevCelFunc" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassGenAlg.TGenAlg.Invertion[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassGenAlg.TGenAlg.Mutation[]" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.TGenAlg.KolBit" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.TGenAlg.Hrom" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGenAlg.TGenAlg.Iteration" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.Create()" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassGenAlg.TGenAlg.Krosover[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassGenAlg.TGenAlg.CelFunc[]" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.Prepare()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGenAlg.TGenAlg.PrepareSecond()" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassGenAlg.TGenAlg.KolHrom[]" />
+    </reference>
+  </view>
+</nodeSet>

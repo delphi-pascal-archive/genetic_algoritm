@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="p3gbgujnn_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassElement.@unitclass">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassElement.TElement">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassElement.TElement.Copy(ClassElement.TElement)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassElement.TElement.LoadElement(System.String)" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassElement.TElement.Name[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassElement.TElement.PictureN[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassElement.TElement.PictureR[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassElement.TElement.Picture[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassElement.TElement.PointConnect[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassElement.TElement.Rotate[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassElement.TElement.ShortName[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassElement.TElement.TypeElement[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassElement.TElement.VerhPoint[]" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassElement.TElement.FZakr" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassElement.TElement.NizPoint[]" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassElement.TElement.FVerhPoint" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassElement.TElement.FNizPoint" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassElement.TElement.SetName(System.String)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassElement.TElement.SetPictureN(Graphics.TBitmap)" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassElement.TElement.CountPointConnect" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassElement.TElement.FName" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassElement.TElement.FPictureN" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassElement.TElement.FPictureR" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassElement.TElement.Fpicture" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassElement.TElement.FPointConnect" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassElement.TElement.FRotate" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassElement.TElement.FShortName" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassElement.TElement.SetTypeElement(System.String)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassElement.TElement.SetVerxPoint(types.TPoint)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassElement.TElement.ChangeZakr()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassElement.TElement.Create()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassElement.TElement.Destroy()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassElement.TElement.AddPointConnect(types.TPoint)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassElement.TElement.ChangeRotate()" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassElement.TElement.Zakr[]" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassElement.TElement.GetNumber()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassElement.TElement.SetPictureR(Graphics.TBitmap)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassElement.TElement.SetRotate(System.Boolean)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassElement.TElement.SetShortName(System.String)" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassElement.TElement.FTypeElement" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassElement.TElement.DeletePointConnect(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassElement.TElement.SaveElement(System.String,System.String)" />
+    </reference>
+  </view>
+</nodeSet>

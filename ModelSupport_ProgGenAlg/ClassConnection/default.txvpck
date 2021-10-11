@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="e2gpa7smg_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassConnection.@unitclass">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassConnection.TConnection">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassConnection.TConnection.GetPassword()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassConnection.TConnection.GetTransactionObject()" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassConnection.TConnection.UserName[]" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassConnection.TConnection.SetPassword(System.String)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassConnection.TConnection.Create()" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassConnection.TConnection.FDataBase" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassConnection.TConnection.Destroy()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassConnection.TConnection.Connect()" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassConnection.TConnection.FDataBaseName" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassConnection.TConnection.FPassword" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassConnection.TConnection.Disconnect()" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassConnection.TConnection.Connected[]" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassConnection.TConnection.FServerName" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassConnection.TConnection.FTransactionObject" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassConnection.TConnection.DataBase[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassConnection.TConnection.DataBaseName[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassConnection.TConnection.TransactionObject[]" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassConnection.TConnection.FUserName" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassConnection.TConnection.GetConnected()" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassConnection.TConnection.Password[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassConnection.TConnection.ServerName[]" />
+    </reference>
+  </view>
+</nodeSet>

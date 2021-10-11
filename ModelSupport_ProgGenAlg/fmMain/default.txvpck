@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="54gvdp5zl_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:fmMain.@unitclass">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.Connection" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.MainFm" />
+      <reference referencedUin="delphi:l_ast:src:ProgGenAlg:fmMain.MainFm" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.Draw" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:fmMain.TMainFm">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.FreeObject()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.CreateObject()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.CreateChildForm(Forms.TForm,Forms.TFormClass)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.FormCreate(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.FormDestroy(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.actFormReadFileExecute(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.actExitExecute(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.actAddElementExecute(System.Object)" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.actAddElement1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.actAddElement" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.N4" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.N3" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.N2" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.N1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.MainMenu1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.actFormReadFile" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.actExit" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.ActionList1" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.TreeClick(System.Object)" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.GenAlg" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.isPaintPlat" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.PaintPlat" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.Move" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.CheckObj" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.IsStopAlg" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.AlgStart" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.PointPlat" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.Info" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.isKolPlat" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.KolPlat" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.Index" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.PY" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.PX" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.DrawPlat(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.actOptionsOpenExecute(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.PaintBoxMouseDown(System.Object,Controls.TMouseButton,Classes.TShiftState,System.Int32,System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.actFormManagerBDExecute(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.N8Click(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.PaintBoxMouseMove(System.Object,Classes.TShiftState,System.Int32,System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.PaintBoxClick(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.PaintBoxMouseUp(System.Object,Controls.TMouseButton,Classes.TShiftState,System.Int32,System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.N9Click(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.N10Click(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.Button1Click(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.N11Click(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.N12Click(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.btRazmClick(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.TimeTimer(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.btRazmContClick(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.Button2Click(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.N13Click(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.btKompClick(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.Time2Timer(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmMain.TMainFm.btKompContClick(System.Object)" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.btKompCont" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.Time2" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.btKomp" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.N13" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.Button2" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.Prog" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.Panel5" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.Panel4" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.btRazmCont" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.Time" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.btRazm" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.Status" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.N12" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.N11" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.Button1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.Panel3" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.N10" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.PopupMenu2" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.TreeUzel" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.N9" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.PopupMenu1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.N8" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.N7" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.actFormManagerBD" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.GroupBox1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.N6" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.N5" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.Panel1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.Panel2" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.Tree" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.PaintBox" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmMain.TMainFm.actOptionsOpen" />
+    </reference>
+  </view>
+</nodeSet>

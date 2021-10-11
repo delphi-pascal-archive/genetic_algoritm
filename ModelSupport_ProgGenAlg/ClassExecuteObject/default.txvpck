@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="41gdaewvo_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassExecuteObject.@unitclass">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassExecuteObject.TExecuteObject">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.GetRecordCount()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.SetFS(System.Int32,System.String)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.GetFS(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.GetFi(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.SetFI(System.Int32,System.Int32)" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.fQuery" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.AfterPost(DB.TDataSet)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.AfterScroll(DB.TDataSet)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.BeforeInsert(DB.TDataSet)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.AfterInsert(DB.TDataSet)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.AfterOpen(DB.TDataSet)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.Create(ClassConnection.TConnection,ClassTransactionObject.TTransactionObject)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.Destroy()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.ExecuteQuery(System.String,System.Variant[])" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.Previous()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.SelectQuery(System.String,System.Variant[])" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.FieldByIDStr(System.Int32)" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.Bof[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.Eof[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.FieldCount[]" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.FieldByNameExt(System.String)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.FieldByNameInt(System.String)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.GetBof()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.FieldByNameStr(System.String)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.First()" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.fDataSource" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.GetDataSource()" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.RecNo[]" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.FieldByIDExt(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.FieldByIDInt(System.Int32)" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.RecordCount[]" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.GetEof()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.Last()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.Next()" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.DataSource[]" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.GetFieldCount()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.GetRecNo()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.SetRecNo(System.Int32)" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.fi[System.Int32]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassExecuteObject.TExecuteObject.fs[System.Int32]" />
+    </reference>
+  </view>
+</nodeSet>

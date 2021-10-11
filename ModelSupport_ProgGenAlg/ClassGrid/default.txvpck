@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="jbgxlf6fj_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassGrid.@unitclass">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassGrid.TMyKletka">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGrid.TMyKletka.VerhPoint" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGrid.TMyKletka.IsElement" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGrid.TMyKletka.NameEl" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassGrid.TMyGrid">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGrid.TMyGrid.FindKletkaByName(System.String)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGrid.TMyGrid.AddKletki(types.TPoint)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGrid.TMyGrid.DeleteKletka(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGrid.TMyGrid.SnapToGrid(ClassElement.TElement)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGrid.TMyGrid.SnapToGridPoint(types.TPoint)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGrid.TMyGrid.FindEmptyKletka(types.TPoint)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGrid.TMyGrid.FindKletka(types.TPoint)" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassGrid.TMyGrid.Kletki[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassGrid.TMyGrid.CountKletki[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassGrid.TMyGrid.MyGrid[]" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGrid.TMyGrid.TMyKletki" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGrid.TMyGrid.FCountKletki" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassGrid.TMyGrid.Grid" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGrid.TMyGrid.Create(System.Int32,System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGrid.TMyGrid.Destroy()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGrid.TMyGrid.DrawGrid()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassGrid.TMyGrid.DeleteAll()" />
+    </reference>
+  </view>
+</nodeSet>

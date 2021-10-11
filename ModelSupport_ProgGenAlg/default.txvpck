@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="azffoj0xi_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="design:view:::k4gxgeusg_v">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="design:view:::u2gg4lihm_v">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="design:view:::jbgxlf6fj_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassGrid.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassGrid.TMyKletka" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassGrid.TMyGrid" />
+    </reference>
+    <reference referencedUin="design:view:::z0gajvx8f_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:FormManagerBD.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:FormManagerBD.TfmManagerBd" />
+    </reference>
+    <reference referencedUin="design:view:::kcgiy0j0l_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassDraw.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassDraw.TDraw" />
+    </reference>
+    <reference referencedUin="design:view:::z1g12jrni_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassReadFile.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassReadFile.TReadFile" />
+    </reference>
+    <reference referencedUin="design:view:::07ggq2yzr_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassUzel.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassUzel.TElementUzel" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassUzel.TUzel" />
+    </reference>
+    <reference referencedUin="design:view:::03g0q2slk_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:fmAddConnect.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:fmAddConnect.TFormAddConnect" />
+    </reference>
+    <reference referencedUin="design:view:::e2gpa7smg_v">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="design:view:::amgpwhhdoloq5bh_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassMatrR.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassMatrR.TZapMAssiva" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassMatrR.TMatrR" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassMatrR.TMatricaR" />
+    </reference>
+    <reference referencedUin="design:view:::b4gytj38o_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ProgGenAlg.@unitclass" />
+    </reference>
+    <reference referencedUin="design:view:::o0gyqoy5i_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:FormAddElement.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:FormAddElement.TfmAddElement" />
+    </reference>
+    <reference referencedUin="design:view:::m0g7kmpmh_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassInformation.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassInformation.TInformation" />
+    </reference>
+    <reference referencedUin="design:view:::41gdaewvo_v">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="design:view:::bcgy9uerk_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:FormOptions.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:FormOptions.TfmOptions" />
+    </reference>
+    <reference referencedUin="design:view:::d7ggpfski_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassOptions.@unitclass" />
+    </reference>
+    <reference referencedUin="design:view:::edgy8819j_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassManager.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassManager.TManager" />
+    </reference>
+    <reference referencedUin="design:view:::p3gbgujnn_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassElement.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassElement.TElement" />
+    </reference>
+    <reference referencedUin="design:view:::qkgdiiheo5fjwbh_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassGenAlg.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassGenAlg.TGen" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassGenAlg.THromosoma" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassGenAlg.TGenAlg" />
+    </reference>
+    <reference referencedUin="design:view:::j1givvs3m_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:FormReadFile.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:FormReadFile.TfmReadFile" />
+    </reference>
+    <reference referencedUin="design:view:::ldgs80noi_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassPlata.TPlata" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassPlata.@unitclass" />
+    </reference>
+    <reference referencedUin="design:view:::54gvdp5zl_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:fmMain.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:fmMain.TMainFm" />
+    </reference>
+    <reference referencedUin="design:view:::zagm12n0l_v">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:DataModule.@unitclass" />
+      <reference referencedUin="delphi:e_class:src:ProgGenAlg:DataModule.TData" />
+    </reference>
+  </view>
+</nodeSet>

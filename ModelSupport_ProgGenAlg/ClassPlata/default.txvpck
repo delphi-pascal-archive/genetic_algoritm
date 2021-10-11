@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="ldgs80noi_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassPlata.TPlata">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassPlata.TPlata.NizPoint[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassPlata.TPlata.VerhPoint[]" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassPlata.TPlata.DeleteKletka(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassPlata.TPlata.FindKletkaBeEl(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassPlata.TPlata.FindKletka()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassPlata.TPlata.AddKletka(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassPlata.TPlata.Create()" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassPlata.TPlata.CountKletok" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassPlata.TPlata.Kletki" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassPlata.TPlata.FNizPoint" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassPlata.TPlata.FVerhPoint" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassPlata.@unitclass">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+  </view>
+</nodeSet>

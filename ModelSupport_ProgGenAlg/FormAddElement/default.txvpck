@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="o0gyqoy5i_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:FormAddElement.@unitclass">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.fmAddElement" />
+      <reference referencedUin="delphi:l_ast:src:ProgGenAlg:FormAddElement.fmAddElement" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.Element" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:FormAddElement.TfmAddElement">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.PictureR" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.PictureN" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.Element" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormAddElement.TfmAddElement.btAddNormalPictureClick(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormAddElement.TfmAddElement.btAddRotatePictureClick(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormAddElement.TfmAddElement.FormCreate(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormAddElement.TfmAddElement.FormDestroy(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormAddElement.TfmAddElement.BitBtn2Click(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormAddElement.TfmAddElement.BitBtn1Click(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormAddElement.TfmAddElement.btAddConnectNClick(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormAddElement.TfmAddElement.btAddConnectRClick(System.Object)" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.BitBtn2" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.BitBtn1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.btAddConnectR" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.btAddRotatePicture" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.btAddConnectN" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.btAddNormalPicture" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.Label2" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.Label1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.Rotate" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.Normal" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.Open" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.edKolConnect" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.edShortName" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.edName" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.GroupBox1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.Panel2" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.Panel1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.NormalPAth" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormAddElement.TfmAddElement.RotatePath" />
+    </reference>
+  </view>
+</nodeSet>

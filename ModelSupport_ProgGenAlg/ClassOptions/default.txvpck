@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="d7ggpfski_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassOptions.@unitclass">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassOptions.IsAlgDraw" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassOptions.VisibleGrid" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassOptions.IsSnap" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassOptions.ini" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassOptions.LoadOptions(inifiles.TIniFile)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassOptions.SaveOptions()" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassOptions.ShowMessageNotElementdBD" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassOptions.ShowMiniElements" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassOptions.ShagSetk" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassOptions.OptMinPop" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassOptions.OptMutation" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassOptions.OptInvertion" />
+    </reference>
+  </view>
+</nodeSet>

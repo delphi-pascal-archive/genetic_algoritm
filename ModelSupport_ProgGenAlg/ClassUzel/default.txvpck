@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="07ggq2yzr_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassUzel.@unitclass">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassUzel.TElementUzel">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassUzel.TElementUzel.Name" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassUzel.TElementUzel.NumberConnect" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassUzel.TUzel">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassUzel.TUzel.AddElement(System.String,System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassUzel.TUzel.DeleteElement(System.Int32)" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassUzel.TUzel.Name[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassUzel.TUzel.Elements[]" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassUzel.TUzel.CountElements[]" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassUzel.TUzel.FName" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassUzel.TUzel.FElements" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassUzel.TUzel.FCountElements" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassUzel.TUzel.Create()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassUzel.TUzel.KolElInUze(System.String)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassUzel.TUzel.FindElement(System.String)" />
+    </reference>
+  </view>
+</nodeSet>

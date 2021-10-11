@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<!DOCTYPE modelmakerdiagrams>
+<modelmakerdiagrams Format="sfDiagram" Generator="ModelMaker 7" GenVersion="7.20" ModelID="{1F2E1AF1-64A1-4A3A-B57C-FEEDA0D5C33E}">
+	<classdiagram ShapeID="1" DiagramID="1" DiagramName="All" PageFormat="pfA4" PageOrientation="poPortrait">
+		<classsymbol ShapeID="2" InstanceName="DbObject" Location="72,240" Extent="102,32">
+			<references>
+				<codemodelref Options="[sroSelectable,sroFixed,sroFixedType]" EntityType="tyClass" ID="11" NamePath="TDbObject" IsHotLink="True"/>
+			</references>
+			<symbolname ShapeID="3" AdornmentID="Name" Location="0,16" Extent="74,16"/>
+		</classsymbol>
+		<classsymbol ShapeID="4" InstanceName="Element" Location="264,244" Extent="98,32">
+			<references>
+				<codemodelref Options="[sroSelectable,sroFixed,sroFixedType]" EntityType="tyClass" ID="10" NamePath="TElement" IsHotLink="True"/>
+			</references>
+			<symbolname ShapeID="5" AdornmentID="Name" Location="0,16" Extent="70,16"/>
+		</classsymbol>
+		<classsymbol ShapeID="6" InstanceName="TfmAddElement" Location="484,244" Extent="135,32">
+			<references>
+				<codemodelref Options="[sroSelectable,sroFixed,sroFixedType]" EntityType="tyClass" ID="90" NamePath="TfmAddElement" IsHotLink="True"/>
+			</references>
+			<symbolname ShapeID="7" AdornmentID="Name" Location="0,16" Extent="107,16"/>
+		</classsymbol>
+		<classsymbol ShapeID="8" InstanceName="TfmReadFile" Location="460,20" Extent="114,32">
+			<references>
+				<codemodelref Options="[sroSelectable,sroFixed,sroFixedType]" EntityType="tyClass" ID="120" NamePath="TfmReadFile" IsHotLink="True"/>
+			</references>
+			<symbolname ShapeID="9" AdornmentID="Name" Location="0,16" Extent="86,16"/>
+		</classsymbol>
+		<classsymbol ShapeID="10" InstanceName="FormAddConnect" Location="524,148" Extent="150,32">
+			<references>
+				<codemodelref Options="[sroSelectable,sroFixed,sroFixedType]" EntityType="tyClass" ID="54" NamePath="TFormAddConnect" IsHotLink="True"/>
+			</references>
+			<symbolname ShapeID="11" AdornmentID="Name" Location="0,16" Extent="122,16"/>
+		</classsymbol>
+		<classsymbol ShapeID="12" InstanceName="MainFm" Location="652,244" Extent="96,32">
+			<references>
+				<codemodelref Options="[sroSelectable,sroFixed,sroFixedType]" EntityType="tyClass" ID="65" NamePath="TMainFm" IsHotLink="True"/>
+			</references>
+			<symbolname ShapeID="13" AdornmentID="Name" Location="0,16" Extent="68,16"/>
+		</classsymbol>
+		<classsymbol ShapeID="14" InstanceName="Object" Location="172,120" Extent="96,32">
+			<references>
+				<codemodelref Options="[sroSelectable,sroFixed,sroFixedType]" EntityType="tyClass" ID="0" NamePath="TObject" IsHotLink="True"/>
+			</references>
+			<symbolname ShapeID="15" AdornmentID="Name" Location="0,16" Extent="60,16"/>
+		</classsymbol>
+		<classsymbol ShapeID="16" InstanceName="ReadFile" Location="232,20" Extent="99,32">
+			<references>
+				<codemodelref Options="[sroSelectable,sroFixed,sroFixedType]" EntityType="tyClass" ID="38" NamePath="TReadFile" IsHotLink="True"/>
+			</references>
+			<symbolname ShapeID="17" AdornmentID="Name" Location="0,16" Extent="71,16"/>
+		</classsymbol>
+		<generalization ShapeID="18" OrthoStyle="osTrue" SourceSymbol="2" TargetSymbol="14">
+			<associationname ShapeID="19" AdornmentID="Name"/>
+		</generalization>
+		<fieldassociation ShapeID="20" OrthoStyle="osTrue" SourceSymbol="6" TargetSymbol="4">
+			<references>
+				<codemodelref Options="[sroSelectable,sroFixed,sroFixedType]" EntityType="tyMember" ID="108" NamePath="TfmAddElement.Element" IsHotLink="True"/>
+			</references>
+			<associationname ShapeID="21" AdornmentID="Name" Extent="55,16"/>
+		</fieldassociation>
+		<fieldassociation ShapeID="22" OrthoStyle="osTrue" SourceSymbol="8" TargetSymbol="16">
+			<references>
+				<codemodelref Options="[sroSelectable,sroFixed,sroFixedType]" EntityType="tyMember" ID="127" NamePath="TfmReadFile.Read" IsHotLink="True"/>
+			</references>
+			<associationname ShapeID="23" AdornmentID="Name" Extent="43,16"/>
+		</fieldassociation>
+		<generalization ShapeID="24" OrthoStyle="osTrue" SourceSymbol="16" TargetSymbol="14">
+			<associationname ShapeID="25" AdornmentID="Name"/>
+		</generalization>
+	</classdiagram>
+	<projectsettings DrawGrid="4" PageFormat="pfA4" PageOrientation="poPortrait" SymbolHeight="32" SymbolWidth="96" UMLVisibilityImages="True" UndefinedCategory="No category" UnitsHaveTabs="False"/>
+</modelmakerdiagrams>

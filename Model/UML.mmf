@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<!DOCTYPE modelmakerdesigncritics>
+<modelmakerdesigncritics>
+	<designcritics>
+		<critic CriticID="ModelMaker Tools.TPureAbstractClassCritic" Enabled="True" Visible="True" Priority="0" Category="Implementation"/>
+		<critic CriticID="ModelMaker Tools.TInterfaceGUIDCritic" Enabled="True" Visible="True" Priority="0" Category="Implementation"/>
+		<critic CriticID="ModelMaker Tools.TEmptyMethodCritic" Enabled="True" Visible="True" Priority="0" Category="Implementation"/>
+		<critic CriticID="ModelMaker Tools.TAbstractMethodCritic" Enabled="True" Visible="True" Priority="0" Category="Implementation"/>
+		<critic CriticID="ModelMaker Tools.TUndocumentedEntitiesCritic" Enabled="True" Visible="True" Priority="0" Category="Documentation"/>
+		<critic CriticID="ModelMaker Tools.TOneLinerCritic" Enabled="True" Visible="True" Priority="0" Category="Documentation"/>
+		<critic CriticID="ModelMaker Tools.TCodeToDoItemCritic" Enabled="True" Visible="True" Priority="0" Category="ToDo items"/>
+		<critic CriticID="ModelMaker Tools.TUnitTimeStampCritic" Enabled="True" Visible="True" Priority="0" Category="Source Synchronization"/>
+		<critic CriticID="ModelMaker Tools.TToDoManagerCritic" Enabled="True" Visible="False" Priority="0" Category=""/>
+	</designcritics>
+	<criticmessages>
+		<message Container="0" Owner="MMSystem.Error" TimeStamp="39161,8330363773" Priority="0" Category="Error" Data="0" MsgType="mmtError">
+No unit found containing class TObject
+			<mmreference/>
+		</message>
+		<message Container="0" Owner="MMSystem.Error" TimeStamp="39161,9425321875" Priority="0" Category="Error" Data="0" MsgType="mmtError">
+Cannot open file &quot;C:\\Documents and Settings\\Âàäèì\\Ìîè äîêóìåíòû\\Borland Studio Projects\\ProgGenAlg\\fmMain.pas&quot;. Íå óäàåòñÿ íàéòè óêàçàííûé ôàéë
+			<mmreference/>
+		</message>
+	</criticmessages>
+</modelmakerdesigncritics>

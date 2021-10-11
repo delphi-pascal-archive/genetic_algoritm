@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="z0gajvx8f_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:FormManagerBD.@unitclass">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormManagerBD.fmManagerBd" />
+      <reference referencedUin="delphi:l_ast:src:ProgGenAlg:FormManagerBD.fmManagerBd" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:FormManagerBD.TfmManagerBd">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormManagerBD.TfmManagerBd.Panel1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormManagerBD.TfmManagerBd.PopupMenu1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormManagerBD.TfmManagerBd.Grid" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormManagerBD.TfmManagerBd.E1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormManagerBD.TfmManagerBd.DataS" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormManagerBD.TfmManagerBd.DataSource1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormManagerBD.TfmManagerBd.Panel2" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormManagerBD.TfmManagerBd.BitBtn1" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormManagerBD.TfmManagerBd.BitBtn1Click(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormManagerBD.TfmManagerBd.FormDestroy(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormManagerBD.TfmManagerBd.E1Click(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormManagerBD.TfmManagerBd.FormCreate(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormManagerBD.TfmManagerBd.Prepare()" />
+    </reference>
+  </view>
+</nodeSet>

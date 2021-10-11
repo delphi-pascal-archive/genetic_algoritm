@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="03g0q2slk_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:fmAddConnect.@unitclass">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmAddConnect.FormAddConnect" />
+      <reference referencedUin="delphi:l_ast:src:ProgGenAlg:fmAddConnect.FormAddConnect" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:fmAddConnect.TFormAddConnect">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmAddConnect.TFormAddConnect.BitBtn1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmAddConnect.TFormAddConnect.BitBtn2" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmAddConnect.TFormAddConnect.BitBtn2Click(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmAddConnect.TFormAddConnect.ImageMouseDown(System.Object,Controls.TMouseButton,Classes.TShiftState,System.Int32,System.Int32)" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmAddConnect.TFormAddConnect.Image" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmAddConnect.TFormAddConnect.Grid" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmAddConnect.TFormAddConnect.FormCreate(System.Object)" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:fmAddConnect.TFormAddConnect.Kol" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:fmAddConnect.TFormAddConnect.BitBtn1Click(System.Object)" />
+    </reference>
+  </view>
+</nodeSet>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="bcgy9uerk_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:FormOptions.@unitclass">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormOptions.fmOptions" />
+      <reference referencedUin="delphi:l_ast:src:ProgGenAlg:FormOptions.fmOptions" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:FormOptions.TfmOptions">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormOptions.TfmOptions.Panel1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormOptions.TfmOptions.BitBtn1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormOptions.TfmOptions.BitBtn2" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormOptions.TfmOptions.cbShowDialogNotElement" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormOptions.TfmOptions.TabSheet3" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormOptions.TfmOptions.edInversion" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormOptions.TfmOptions.edMutation" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormOptions.TfmOptions.Label1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormOptions.TfmOptions.edEpoh" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormOptions.TfmOptions.Label2" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormOptions.TfmOptions.cbAlgDraw" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormOptions.TfmOptions.FormCreate(System.Object)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:FormOptions.TfmOptions.BitBtn1Click(System.Object)" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormOptions.TfmOptions.PageControl1" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:FormOptions.TfmOptions.TabSheet1" />
+    </reference>
+  </view>
+</nodeSet>

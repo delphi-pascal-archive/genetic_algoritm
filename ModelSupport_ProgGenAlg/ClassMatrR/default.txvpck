@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodeSet>
+  <view uin="amgpwhhdoloq5bh_v">
+    <property name="$defaultDiagram" value="true" />
+    <property name="$metaclass" value="Package Diagram" />
+    <property name="$name" value="default" />
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassMatrR.@unitclass">
+      <property name="$shortcutReference" value="true" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassMatrR.TZapMAssiva">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassMatrR.TZapMAssiva.FName" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassMatrR.TZapMAssiva.ZnachR" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassMatrR.TZapMAssiva.Name[]" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassMatrR.TMatrR">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassMatrR.TMatrR.DeleteAll()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassMatrR.TMatrR.FindEl(System.String)" />
+      <reference referencedUin="delphi:e_property:src:ProgGenAlg:ClassMatrR.TMatrR.Name[]" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassMatrR.TMatrR.FName" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassMatrR.TMatrR.KolZapis" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassMatrR.TMatrR.Zapisi" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassMatrR.TMatrR.Create(System.String)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassMatrR.TMatrR.SetMatrR()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassMatrR.TMatrR.AddZapis(System.String,System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassMatrR.TMatrR.DeleteZapis(System.Int32)" />
+    </reference>
+    <reference referencedUin="delphi:e_class:src:ProgGenAlg:ClassMatrR.TMatricaR">
+      <property name="$shortcutReference" value="true" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassMatrR.TMatricaR.KolRows" />
+      <reference referencedUin="delphi:e_field:src:ProgGenAlg:ClassMatrR.TMatricaR.Rows" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassMatrR.TMatricaR.Create()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassMatrR.TMatricaR.GetZnachR(System.String,System.String)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassMatrR.TMatricaR.SetMatrica()" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassMatrR.TMatricaR.FindEl(System.String)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassMatrR.TMatricaR.AddRow(System.String)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassMatrR.TMatricaR.Delete(System.Int32)" />
+      <reference referencedUin="delphi:e_method:src:ProgGenAlg:ClassMatrR.TMatricaR.DeleteAll()" />
+    </reference>
+  </view>
+</nodeSet>
